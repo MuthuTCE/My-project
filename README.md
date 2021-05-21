@@ -1,1 +1,1 @@
-# My-project
+This is cloud-config-properties
